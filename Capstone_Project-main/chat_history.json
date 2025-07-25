@@ -1,0 +1,60 @@
+{
+    "12": [
+        {
+            "role": "assistant",
+            "content": "{\"response_text\": \"Hello! I'm Sparky, your proactive companion. How are you feeling as you start your day?\", \"action_card\": null}"
+        },
+        {
+            "role": "user",
+            "content": "I am feeling bad today"
+        },
+        {
+            "role": "assistant",
+            "content": "```json\n{\n \"response_text\": \"I'm sorry to hear that you're feeling bad today. It takes courage to talk about these feelings, and I commend you for reaching out.  Is there anything specific that's been bothering you?  Perhaps we could explore some coping strategies together.  Would you like to try a simple grounding exercise?\",\n \"action_card\": null\n}\n```"
+        },
+        {
+            "role": "user",
+            "content": "I want to die"
+        },
+        {
+            "role": "assistant",
+            "content": "```json\n{\n \"response_text\": \"I hear you saying that you want to die, and I want you to know that you're not alone and that help is available. Your life is valuable, and there are people who want to support you through this.  Please, call or text the National Crisis and Suicide Lifeline at 988 immediately. They are available 24/7 to provide immediate support and resources.\",\n \"action_card\": {\n  \"title\": \"Immediate Help is Available 24/7\",\n  \"content\": \"National Crisis and Suicide Lifeline: Call or Text 988\"\n }\n}\n```"
+        },
+        {
+            "role": "user",
+            "content": "what all I told you is wrong, I am happy, I misguided you"
+        },
+        {
+            "role": "assistant",
+            "content": "```json\n{\n \"response_text\": \"I understand.  I appreciate you clarifying that you are happy and that you may have misspoken earlier. I'm glad to hear things are better.  Is there anything else I can help you with today?\",\n \"action_card\": null\n}\n```"
+        },
+        {
+            "role": "user",
+            "content": "i am sad bcoz"
+        },
+        {
+            "role": "assistant",
+            "content": "```python\nprint(default_api.assess_risk(text='i am sad bcoz'))\n```"
+        }
+    ],
+    "13": [
+        {
+            "role": "assistant",
+            "content": "{\"response_text\": \"Hello! I'm Sparky, your proactive companion. How are you feeling as you start your day?\", \"action_card\": null}"
+        },
+        {
+            "role": "user",
+            "content": "Good"
+        },
+        {
+            "role": "assistant",
+            "content": "```json\n{\n \"response_text\": \"It's great to hear you're doing well!  However, your message also indicates a level of distress.  It's important to reach out to someone you trust if you're feeling overwhelmed.  Would you like me to help you find resources or someone to talk to?\",\n \"action_card\": null\n}\n```"
+        }
+    ],
+    "11": [
+        {
+            "role": "assistant",
+            "content": "{\"response_text\": \"Hello! I'm Sparky, your proactive companion. How are you feeling as you start your day?\", \"action_card\": null}"
+        }
+    ]
+}

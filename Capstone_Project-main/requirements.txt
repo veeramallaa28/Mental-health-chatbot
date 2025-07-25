@@ -9,3 +9,4 @@ joblib
 langchain>=0.1.14
 langchain-community
 langchain-core>=0.1.14
+langchain-google-genai

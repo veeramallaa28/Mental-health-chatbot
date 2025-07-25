@@ -5,3 +5,7 @@ torch
 transformers
 openai
 google-generativeai
+joblib
+langchain>=0.1.14
+langchain-community==0.0.21
+langchain-core>=0.1.14
